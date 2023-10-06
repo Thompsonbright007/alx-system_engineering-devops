@@ -1,0 +1,4 @@
+#!/usr/binn/env bash
+#Displays listening ports with regard listening socket and
+#PID and name of the program to which each socket belong
+netstat -lp
